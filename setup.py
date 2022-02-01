@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="packagemaior",
+    name="PackageMeu",
     version="0.0.1",
     author="arthurkafer",
     author_email="arthurkafer@gmail.com",
@@ -9,9 +9,14 @@ setuptools.setup(
     long_description="logger basico em classe pra teste de install de pacote por pip, e outras cositas mas",
     url="https://github.com/arthurkafer/private_pip_package",
     packages=setuptools.find_packages(),
-	install_requires=[
-		'numpy'
-	],
+	extras_require={
+		'dependencia': [
+			'numpy'
+		]
+	},
+	# install_requires=[
+	# 	'numpy'
+	# ],
     classifiers=[
         "Programming Language :: Python :: 3",
     ],
