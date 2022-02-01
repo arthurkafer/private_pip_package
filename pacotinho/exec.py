@@ -1,4 +1,4 @@
-import logging
+import logging, setuptools
 from logging.handlers import RotatingFileHandler
 
 class Logs:
@@ -11,6 +11,7 @@ class Logs:
 			mode="a",
 			maxBytes=self.file_max_size,
 			backupCount=3)
+		print(setuptools.find_packages())
 
 		logging.basicConfig(
 			level=logging.DEBUG,
