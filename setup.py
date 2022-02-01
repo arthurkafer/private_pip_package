@@ -1,4 +1,5 @@
 import setuptools
+print(setuptools.find_packages())
 
 setuptools.setup(
     name="pacotinho",
