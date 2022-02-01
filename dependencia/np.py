@@ -1,4 +1,5 @@
 import numpy as np
+import integer
 
 class DetectorNP():
 	def __init__(self):

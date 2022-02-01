@@ -11,12 +11,10 @@ setuptools.setup(
     packages=setuptools.find_packages(),
 	extras_require={
 		'dependencia': [
-			'numpy'
+			'numpy',
+			'integer'
 		]
 	},
-	# install_requires=[
-	# 	'numpy'
-	# ],
     classifiers=[
         "Programming Language :: Python :: 3",
     ],
