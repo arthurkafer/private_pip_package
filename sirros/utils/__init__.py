@@ -1,2 +1,2 @@
-from general import *
-from detection import *
+from .general import *
+from .detection import *
