@@ -1,1 +1,1 @@
-from .np import *
+from .np import DetectorNP
