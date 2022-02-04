@@ -10,7 +10,7 @@ setuptools.setup(
     url="https://github.com/arthurkafer/private_pip_package",
     packages=setuptools.find_packages(),
 	install_requires=[
-		'integer'
+		'opencv-python>=4.1.1'
 	],
     classifiers=[
         "Programming Language :: Python :: 3",
