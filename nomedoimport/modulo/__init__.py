@@ -1,1 +1,1 @@
-from .module import Grande as GGrande
+from .module import Grande
