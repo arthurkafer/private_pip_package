@@ -1,5 +1,5 @@
-import integer
+import cv2
 
 class Grande:
 	def __init__(self):
-		print(integer)
+		print(cv2.getBuildInformation())
