@@ -1,1 +1,1 @@
-from .module import Grande
+from .module import OCR
