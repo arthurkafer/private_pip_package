@@ -9,6 +9,9 @@ setuptools.setup(
     long_description="logger basico em classe pra teste de install de pacote por pip, e outras cositas mas",
     url="https://github.com/arthurkafer/private_pip_package",
     packages=setuptools.find_packages(),
+	install_requires=[
+		'integer'
+	],
     classifiers=[
         "Programming Language :: Python :: 3",
     ],

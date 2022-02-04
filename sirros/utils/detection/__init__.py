@@ -1,1 +1,0 @@
-from .np import DetectorNP
