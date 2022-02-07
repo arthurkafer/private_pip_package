@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PackageMeu
+Version: 0.0.2
+Summary: pacote teste
+Home-page: https://github.com/arthurkafer/private_pip_package
+Author: Arthur Kafer
+Author-email: arthurkafer@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+
+# private_pip_package
+teste de instalavel pip privado
+
+Se quiser instalar como geral, usa a linha:
+### pip install git+ssh://git@github.com/arthurkafer/private_pip_package.git
+
+
+

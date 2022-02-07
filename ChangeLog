@@ -1,0 +1,33 @@
+CHANGES
+=======
+
+0.0.2
+-----
+
+* teste com pbr e versionamento
+* arrumando
+* teste com pbr
+* troquei a ordem descobri a merda
+* tteste versao com exec
+* adicionado version pra ver se da merda
+* ambiente quente
+* faltou mudar o require
+* mudei pra cv2 a lib a mais
+* pelo jeito funcionou vamo ver de novo
+* teste import direto 4 acho
+* teste import direto 3
+* teste modulo com classe diretamente 2
+* tetse abrir classe de modulo com instalavel direto 1
+* teste import modulo 2
+* teste de import de modulos dentro das pastas
+* teste pasta dentro de pasta
+* teste \_\_init\_\_
+* Update README.md
+* teste dependencia 3
+* teste dependencia 2
+* teste setuptools
+* teste dois pacotes, um com dependencia
+* Update README.md
+* Create README.md
+* print find\_packages
+* pacote adicionado
