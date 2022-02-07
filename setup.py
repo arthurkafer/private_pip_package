@@ -1,5 +1,5 @@
 import setuptools
-from nomedoimport.modulo._version import __version__
+exec(open('nomedoimport/modulo/_version.py').read())
 
 setuptools.setup(
     name="PackageMeu",
