@@ -1,8 +1,9 @@
 import setuptools
+from nomedoimport.modulo._version import __version__
 
 setuptools.setup(
     name="PackageMeu",
-    version="0.0.1",
+    version=__version__,
     author="arthurkafer",
     author_email="arthurkafer@gmail.com",
     description="pactinho teste",
