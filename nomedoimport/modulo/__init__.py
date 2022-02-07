@@ -1,2 +1,5 @@
 from .module import OCR
-from ._version import __version__
+
+all = ('__version__')
+from pbr.version import VersionInfo
+__version__ = VersionInfo('nomedoimport.modulo').release_string()
