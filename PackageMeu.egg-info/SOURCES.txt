@@ -15,6 +15,7 @@ PackageMeu.egg-info/top_level.txt
 dist/PackageMeu-0.0.2.tar.gz
 dist/PackageMeu-0.0.3.dev2.tar.gz
 dist/PackageMeu-0.0.3.tar.gz
+dist/PackageMeu-0.0.4.dev1.tar.gz
 nomedoimport/__init__.py
 nomedoimport/modulo/__init__.py
 nomedoimport/modulo/module.py
