@@ -1,4 +1,5 @@
 pbr==5.8.1
+pkg_resources
 opencv-python>=4.1.1
 fuzzysearch==0.7.3
 fuzzywuzzy==0.18.0

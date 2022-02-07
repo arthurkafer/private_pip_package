@@ -12,6 +12,8 @@ PackageMeu.egg-info/not-zip-safe
 PackageMeu.egg-info/pbr.json
 PackageMeu.egg-info/requires.txt
 PackageMeu.egg-info/top_level.txt
+dist/PackageMeu-0.0.2.tar.gz
+dist/PackageMeu-0.0.3.dev2.tar.gz
 nomedoimport/__init__.py
 nomedoimport/modulo/__init__.py
 nomedoimport/modulo/module.py

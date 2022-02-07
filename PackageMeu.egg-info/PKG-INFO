@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PackageMeu
-Version: 0.0.2
+Version: 0.0.3
 Summary: pacote teste
 Home-page: https://github.com/arthurkafer/private_pip_package
 Author: Arthur Kafer
@@ -8,6 +8,7 @@ Author-email: arthurkafer@gmail.com
 License: UNKNOWN
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
+License-File: AUTHORS
 
 # private_pip_package
 teste de instalavel pip privado
